@@ -1,0 +1,9 @@
+Sense of Urgency: Emails that say "Act Now!" or "Your account will be deleted in 1 hour."
+
+Suspicious Sender Address: The email looks official, but the actual address is something like support@amaz0n-security.com.
+
+Generic Salutations: Using "Dear Customer" instead of your actual name.
+
+Mismatched Links: Hovering over a button shows a URL that doesn't match the company's real website.
+
+Request for Sensitive Info: Real banks or universities will never ask for your password via email.
