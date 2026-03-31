@@ -1,47 +1,47 @@
 # Digital Literacy Project (CSE0001)
 
 ## Student Information
-* [cite_start]**Name:** [Pranshu Agarwal] [cite: 13]
-* [cite_start]**Registration Number:** [25BAI11526] [cite: 13]
-* [cite_start]**Branch:** B.Tech [AL & ML] [cite: 2, 34]
-* [cite_start]**Year:** 2025 [cite: 2, 34]
-* [cite_start]**Course Code:** CSE0001 [cite: 2]
+* **Name:** [Pranshu Agarwal] 
+* **Registration Number:** [25BAI11526] 
+* **Branch:** B.Tech [AL & ML]
+* **Year:** 2025 
+* **Course Code:** CSE0001 
 
 ---
 
 ## Project Overview
-[cite_start]I have developed this portfolio to help peers navigate professional online profiles, safe communication, and digital security[cite: 4, 5, 6]. [cite_start]This repository contains five tasks mapping to the core modules of the Digital Literacy course[cite: 18].
+I have developed this portfolio to help peers navigate professional online profiles, safe communication, and digital security. This repository contains five tasks mapping to the core modules of the Digital Literacy course.
 
 ---
 
 ## Module Summaries
 
 ### Task 1: Digital Literacy Awareness Infographic
-* [cite_start]**Goal:** Create a visual resource explaining digital literacy and safe internet practices[cite: 21, 25].
-* [cite_start]**Tool Used:** [Canva][cite: 23].
-* [cite_start]**Contents:** Located in the `task-1-presentation/` folder[cite: 26].
+* **Goal:** Create a visual resource explaining digital literacy and safe internet practices.
+* **Tool Used:** Canva.
+* **Contents:** Located in the `task-1-presentation/` folder.
 
 ### Task 2: Student Digital Portfolio
-* [cite_start]**Goal:** Establish a professional presence on key academic and career platforms[cite: 31].
-* [cite_start]**Platforms:** [LinkedIn, GitHub, Kaggle][cite: 33].
-* [cite_start]**Contents:** Screenshots available in the `task-2-portfolio/` folder[cite: 36].
+* **Goal:** Establish a professional presence on key academic and career platforms
+* **Platforms:** LinkedIn, GitHub, Kaggle
+* **Contents:** Screenshots available in the `task-2-portfolio/` folder
 
 ### Task 3: Coding & Collaboration Platforms
-* [cite_start]**Goal:** Practice technical problem-solving and cloud-based collaboration[cite: 44, 45].
-* [cite_start]**Activity:** Completed a beginner challenge on [e.g., HackerRank] and created a Digital Literacy Quiz via Google Forms[cite: 47, 52].
-* [cite_start]**Quiz Link:** [Insert your Google Form Link here][cite: 54].
-* [cite_start]**Contents:** Evidence located in the `task-3-platforms/` folder[cite: 50, 54].
+* **Goal:** Practice technical problem-solving and cloud-based collaboration.
+* **Activity:** Completed a beginner challenge on HackerRank and created a Digital Literacy Quiz via Google Forms.
+* **Quiz Link:** https://docs.google.com/forms/d/e/1FAIpQLSdKbi2a5HaoQP_yKSxqrZKiI7qkFDrYiJZGlSJ_LUfXR5tmjQ/viewform?usp=publish-editor
+* **Contents:** Evidence located in the `task-3-platforms/` folder.
 
 ### Task 4: Professional Communication
-* [cite_start]**Goal:** Master email etiquette and responsible social media usage[cite: 59, 60].
-* [cite_start]**Activity:** Drafted professional emails for an assignment extension and an internship inquiry, along with a "Do's and Don'ts" social media checklist[cite: 62, 64, 68].
-* [cite_start]**Contents:** Located in the `task-4-email-etiquette/` folder[cite: 66, 69].
+* **Goal:** Master email etiquette and responsible social media usage.
+* **Activity:** Drafted professional emails for an assignment extension and an internship inquiry, along with a "Do's and Don'ts" social media checklist.
+* **Contents:** Located in the `task-4-email-etiquette/` folder.
 
 ### Task 5: Cybercrime Awareness
-* [cite_start]**Goal:** Research online threats and provide actionable prevention tips[cite: 74, 75].
-* [cite_start]**Topic:** [e.g., Phishing / UPI Fraud] Case Study and a "Stay Safe Online" checklist[cite: 77, 81].
-* [cite_start]**Contents:** Located in the `task-5-cybercrime/` folder[cite: 80, 85].
-
+* **Goal:** Research online threats and provide actionable prevention tips.
+* **Topic:** [e.g., Phishing / UPI Fraud] Case Study and a "Stay Safe Online" checklist.
+* **Contents:** Located in the `task-5-cybercrime/` folder.
+ 
 ---
 
 ## Repository Structure
@@ -54,10 +54,9 @@
 ├── task-4-email-etiquette/       # Email drafts and social media checklist
 └── task-5-cybercrime/            # Case study and prevention guide
 ```
-[cite_start][cite: 12, 14]
 
 ---
 
 ## Setup & Execution
-* This is a static documentation project. [cite_start]All reports and checklists can be viewed directly in the browser or downloaded as PDF/Docx files[cite: 10, 118].
-* [cite_start]To view the Quiz, please use the Google Form link provided in the Task 3 summary above[cite: 54].
+* This is a static documentation project. All reports and checklists can be viewed directly in the browser or downloaded as PDF/Docx files.
+* To view the Quiz, please use the Google Form link provided in the Task 3 summary above.
